@@ -7,7 +7,7 @@ export default function HomeTab() {
       {/* Background Image with White Gradient and Fade Effect */}
       <div className="absolute inset-0 z-0 bg-white">
         <img 
-          src="/Gemini_Generated_Image_w23ledw23ledw23l.png" 
+          src="/hero_bg.png" 
           alt="Bolos e Doces Adriana Santarém" 
           className="w-full h-full object-cover opacity-20"
           referrerPolicy="no-referrer"
@@ -31,7 +31,7 @@ export default function HomeTab() {
           className="mb-12 md:mb-16 drop-shadow-sm"
         >
           <img 
-            src="/LOGO DIL 2.png" 
+            src="/logo_dil_2.png" 
             alt="Adriana Santarém Logo" 
             className="h-44 md:h-80 w-auto object-contain"
             referrerPolicy="no-referrer"

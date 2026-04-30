@@ -9,7 +9,7 @@ export default function Footer() {
           {/* Logo & Info */}
           <div className="flex flex-col items-center md:items-start space-y-4">
             <img 
-              src="/LOGO DIL 2.png" 
+              src="/logo_dil_2.png" 
               alt="Adriana Santarém Logo" 
               className="h-28 w-auto object-contain"
               referrerPolicy="no-referrer"

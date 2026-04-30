@@ -19,7 +19,7 @@ export default function EncomendaTab() {
           transition={{ delay: 0.2 }}
         >
           <img 
-            src="/LOGO DIL 2.png" 
+            src="/logo_dil_2.png" 
             alt="Logo" 
             className="h-32 mx-auto mb-12"
             onError={(e) => {
